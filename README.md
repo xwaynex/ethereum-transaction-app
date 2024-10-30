@@ -114,8 +114,8 @@ Update the contract address in the frontend with the address from your deploymen
 
 ## Project Structure
 ```bash
-Client/                          # React frontend application
-├── frontend/                   # React frontend application
+frontend/                         # React frontend application
+├── Client/                   # React frontend application
 │   ├── src/
 │   │   ├── context/            # Context provider for transaction state management
 │   │   ├── hooks/              # Custom React hooks
