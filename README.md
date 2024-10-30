@@ -1,6 +1,3 @@
-Here's an extensive `README.md` for your Solidity contract web app:
-
----
 
 # Ethereum Transaction Web App
 
